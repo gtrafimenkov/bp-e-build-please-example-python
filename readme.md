@@ -5,4 +5,5 @@ https://please.build/codelabs/python_intro
 
 ```
 please run //src:main
+please test //src/...
 ```
